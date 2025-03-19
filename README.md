@@ -107,13 +107,3 @@ python speech_recognition.py
 
 ---
 
-## **📜 License**
-
-This project is open-source under the **MIT License**.
-
----
-
-## **📞 Contact & Support**
-
-For questions, contact: [Your Email or GitHub Issues].
-
